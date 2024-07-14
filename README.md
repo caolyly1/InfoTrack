@@ -15,11 +15,9 @@ Contents:
    + Roles & Responsitory
    + Risks
 
-2. Detailed steps for executing each test case
-   + Documentation of any bugs or issues encountered during testing
-   + Screenshots or videos (if applicable) to illustrate the findings
-
+2. Detailed steps for executing each test case, and passed/ failed steps - See Testcases folder
+3. Bug Report.ods files contains list of bugs found.
 3. Test Scripts, Execution Guide, and Evidence Videos:
    + Complete test scripts for high priority test cases
    + Clear and concise instructions for executing the test scripts
-   + Video recordings demonstrating the execution of test cases
+   + Video recordings demonstrating the execution of test scripts
